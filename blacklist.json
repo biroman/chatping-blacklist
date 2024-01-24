@@ -1,4 +1,4 @@
 {
-  "alwaysBlocked": ["trans", "nibor", "walrus", "whale", "adept", "nothingsinger", "darkface", "biroman", "wizwot", "boozooi", "ThePositiveBot", "schnozebot", "nightbot", "logviewer", "hnlbot", "fossabot", "xqcbot", "thonkbot", "streamelements", "ohbot"],
+  "alwaysBlocked": ["trans", "nibor", "walrus", "whale", "adept", "nothingsinger", "darkface", "biroman", "wizwot", "boozooi", "ThePositiveBot", "schnozebot", "nightbot", "logviewer", "hnlbot", "fossabot", "xqcbot", "thonkbot", "streamelements", "ohbot", "test"],
   "mods": ["a_seagull", "aiden", "aimbotcalvin", "antvenom", "ben", "crtvly", "eff2ct", "evomanny", "hydration", "infinitea", "jayne", "jessesmfi", "kaanvict", "legoenthusiast", "m0xyy", "mendo", "mightyoaks", "moobot", "netcat", "novakr", "numbratv", "nvez", "pajlada", "pokelawls", "reckful", "shadder2k", "sinatraa", "sodapoppin", "spanova", "supertf", "surefour", "thisapear", "timthetatman", "topkej", "trainwreckstv", "zostradamus", "zullxv", "zza_ow"]
 }
